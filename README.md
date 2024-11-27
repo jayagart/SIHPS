@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:
-## Register Number:
-## Name:
+## Register Number:24901219
+## Name:Jayagar.T
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
