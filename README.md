@@ -66,7 +66,52 @@ Government of Gujarat
 
 
 ## Technology Stack
+1.Front End
+*Web Application:
+React.js: For building an interactive and responsive user interface.
+*Mobile Application:
+React Native: For cross-platform mobile app development.
 
+2.Back-End
+Node.js (with Express.js): For building a scalable and efficient server-side application.
+
+3.PostgreSQL: For storing structured data like user profiles, donations, and events.
+
+4.AWS (Amazon Web Services): For hosting both the front-end and back-end.
+
+5.Firebase Authentication: For user login and social media sign-in.
+
+6.Stripe: For handling donations.
 
 ## Dependencies
 
+1. Front-End (Web and Mobile)
+   
+*React.js (Web): Core library for building dynamic user interfaces.
+*React Native (Mobile): For cross-platform mobile app development.
+*Axios: For API calls to interact with the back-end.
+*React Router (Web): For navigation and routing in the web app.
+
+2. Back-End (Node.js with Express.js)
+   
+*Express.js: Web framework for handling API routes and server logic.
+*JWT (jsonwebtoken): For secure user authentication.
+*Bcrypt: For password encryption.
+*PostgreSQL Client (pg): For database queries and interactions.
+*Dotenv: For managing environment variables (e.g., database credentials).
+
+3. Database
+   
+*PostgreSQL: A reliable relational database to store alumni data, events, donations, and more.
+
+4. Third-Party Services
+
+*Stripe: For handling donations securely.
+*Firebase Authentication: For user login and account management.
+
+5. Development Tools
+    
+*Webpack or Vite: For bundling and optimizing front-end code.
+*ESLint and Prettier: For maintaining code quality and consistent formatting.
+
+Expenses approximately (60 to 70k)
