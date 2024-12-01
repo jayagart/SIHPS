@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:1/12/2024
 ## Register Number:24901219
 ## Name:Jayagar.T
 ## Problem Title
@@ -60,9 +60,11 @@ Government of Gujarat
 *Improved connection through networking, career tools, and event participation.
 
 ## Proposed Solution / Architecture Diagram
+![code_20241130_102013_via_10015_io](https://github.com/user-attachments/assets/eb2ad8ff-aebd-4dc5-add1-607a6165038a)
 
 
 ## Use Cases
+![Alumni_Use_Case_Diagram](https://github.com/user-attachments/assets/3f0ee4c3-4552-476d-9da4-6888cb1331d5)
 
 
 ## Technology Stack
